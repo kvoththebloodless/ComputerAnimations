@@ -21,18 +21,18 @@ Following will take you to the embedded video for each of the assignments.
 
 - Here we put the framework for keyframe animation down. 
 
-  ### Linear interpolation on position and SLERP on rotation.
+#### Linear interpolation on position and SLERP on rotation.
   
   {% include assignment0.html id=page.driveId2 %}
   
-  ### Linear interpolation on position and SLERP on rotation and ease-in ease-out mapping for u.
+#### Linear interpolation on position and SLERP on rotation and ease-in ease-out mapping for u.
   
   {% include assignment0.html id=page.driveId3 %}
   
-  ### Catmullrom interpolation for position and SLERP on rotation.
+#### Catmullrom interpolation for position and SLERP on rotation.
   
   {% include assignment0.html id=page.driveId4 %}
   
-  ### Catmullrom interpolation for position and SLERP on rotation and ease-in ease-out mapping for u.
+#### Catmullrom interpolation for position and SLERP on rotation and ease-in ease-out mapping for u.
   
   {% include assignment0.html id=page.driveId5 %}
