@@ -38,6 +38,10 @@ Following will take you to the embedded video for each of the assignments.
   
   {% include assignment0.html id=page.driveId5 %}
   
+### Assignment 2
+- Here we have implemented a billiards shot simulation
+- As of now there is translation with one collision.
+- I will update the video as it gets better. 
 #### Billiards initial draft - A lot left to do.  
   
   {% include assignment0.html id=page.driveId6 %}  
