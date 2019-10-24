@@ -38,6 +38,6 @@ Following will take you to the embedded video for each of the assignments.
   
   {% include assignment0.html id=page.driveId5 %}
   
-#### Billiards initial draft - lot's left to do. 
+#### Billiards initial draft - A lot left to do.  
   
   {% include assignment0.html id=page.driveId6 %}  
