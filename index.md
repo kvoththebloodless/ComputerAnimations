@@ -4,6 +4,7 @@ driveId2: 1pHAvKCSAgY-w3V80y9I5JjP0sdlyXCQQ/preview
 driveId3: 1Tl2q_jN5x5cwon-ct0pOBudXi6bdHK-C/preview 
 driveId4: 1wy18mJzV89NTWS7Uokwwevfwn35skPVR/preview
 driveId5: 1GBqwwpeY2upPt3kuTuVRmDQpJm_MezkN/preview
+driveId6: 13MsciUHUxg6Bi01xW0i_7wz9-W1oDOE-/preview
 ---
 ## Computer Animation
 
@@ -36,3 +37,7 @@ Following will take you to the embedded video for each of the assignments.
 #### Catmullrom interpolation for position and SLERP on rotation and ease-in ease-out mapping for u.
   
   {% include assignment0.html id=page.driveId5 %}
+  
+#### Billiards initial draft - lot's left to do. 
+  
+  {% include assignment0.html id=page.driveId6 %}  
