@@ -5,6 +5,7 @@ driveId3: 1Tl2q_jN5x5cwon-ct0pOBudXi6bdHK-C/preview
 driveId4: 1wy18mJzV89NTWS7Uokwwevfwn35skPVR/preview
 driveId5: 1GBqwwpeY2upPt3kuTuVRmDQpJm_MezkN/preview
 driveId6: 13MsciUHUxg6Bi01xW0i_7wz9-W1oDOE-/preview
+driveId7: 1kf_8a1-f6TvK-Yg2CHN3vY4D2lhtamOV/preview
 ---
 ## Computer Animation
 
@@ -45,3 +46,12 @@ Following will take you to the embedded video for each of the assignments.
 #### Billiards initial draft - A lot left to do.  
   
   {% include assignment0.html id=page.driveId6 %}  
+#### Billiards final draft - 
+
+- Rolling implemented, at pure rolling angular momentum driven by W= V/R.
+- Oblique collisions implemented.
+- Wall collision elastic (coefficient of restitution was causing balls to get stuck to the walls).
+- Pockets not implemented due to shortness of time. 
+
+ {% include assignment0.html id=page.driveId7 %}
+
