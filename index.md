@@ -6,6 +6,7 @@ driveId4: 1wy18mJzV89NTWS7Uokwwevfwn35skPVR/preview
 driveId5: 1GBqwwpeY2upPt3kuTuVRmDQpJm_MezkN/preview
 driveId6: 13MsciUHUxg6Bi01xW0i_7wz9-W1oDOE-/preview
 driveId7: 1kf_8a1-f6TvK-Yg2CHN3vY4D2lhtamOV/preview
+driveId8: 1k0uEFaRBMMGwSVCmTJ-xHnwsM3Q8cVAP/preview
 ---
 ## Computer Animation
 
@@ -55,3 +56,9 @@ Following will take you to the embedded video for each of the assignments.
 
  {% include assignment0.html id=page.driveId7 %}
 
+### Assignment 3 : Mocap 
+
+#### First Draft - Parsing of File to create joints and bones in hierarchy is Done
+#### Second Draft - Coming soon
+
+{% include assignment0.html id=page.driveId8 %}
