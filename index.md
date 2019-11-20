@@ -69,8 +69,8 @@ Following will take you to the embedded video for each of the assignments.
 - Sneak and Jog bvh files used to test.
 - BVH left coordinate system to Unity Right coordinae system logic taken from :https://gamedev.stackexchange.com/questions/140579/euler-right-handed-to-quaternion-left-handed-conversion-in-unity
 
-- SNEAK:
+- JOG:
  {% include assignment0.html id=page.driveId9 %}
  
- - JOG:
+ - SNEAK:
   {% include assignment0.html id=page.driveId10 %}
