@@ -7,6 +7,8 @@ driveId5: 1GBqwwpeY2upPt3kuTuVRmDQpJm_MezkN/preview
 driveId6: 13MsciUHUxg6Bi01xW0i_7wz9-W1oDOE-/preview
 driveId7: 1kf_8a1-f6TvK-Yg2CHN3vY4D2lhtamOV/preview
 driveId8: 1k0uEFaRBMMGwSVCmTJ-xHnwsM3Q8cVAP/preview
+driveId9: 1AD6GeEYTFk8amG-6WcKhF-m2ffvk6ddB/preview
+driveId10: 1kgoj4-DIPWnjCGPY8Q1DZ7cNQqUdaDsm/preview
 ---
 ## Computer Animation
 
@@ -59,6 +61,16 @@ Following will take you to the embedded video for each of the assignments.
 ### Assignment 3 : Mocap 
 
 #### First Draft - Parsing of File to create joints and bones in hierarchy is Done
-#### Second Draft - Coming soon
+
 
 {% include assignment0.html id=page.driveId8 %}
+
+#### Final draft
+- Sneak and Jog bvh files used to test.
+- BVH left coordinate system to Unity Right coordinae system logic taken from :https://gamedev.stackexchange.com/questions/140579/euler-right-handed-to-quaternion-left-handed-conversion-in-unity
+
+- SNEAK:
+ {% include assignment0.html id=page.driveId9 %}
+ 
+ - JOG:
+  {% include assignment0.html id=page.driveId10 %}
